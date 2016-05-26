@@ -29,7 +29,7 @@ import java.util.TimeZone;
 public class AirTable {
 
     private static final Logger log = LoggerFactory.getLogger(AirTable.class);
-    private static final String TABLE_URL = "https://api.airtable.com/v0/app6e52Oq9b9YqhOQ/everything";
+    private static final String TABLE_URL = "https://api.airtable.com/v0/appGiOTmTBPeeryPm/SU";
     private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.'000Z'");
     private static final ObjectMapper mapper = new ObjectMapper();
 
